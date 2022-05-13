@@ -1,29 +1,29 @@
-#Titulo{
+.Titulo{
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
 
-#descripPersonal{
+.descripPersonal{
     text-align: center;
 }
 
-#expLaborales{
+.expLaborales{
     text-align: center;
 }
 
-#educacion{
+.educacion{
     text-align: center;
 }
 
-#skills{
+.skills{
     text-align: center;
 }
 
-#FOTO{
+.FOTO{
     text-align: center;
 }
 
-#hobbies{
+.hobbies{
     text-align: center;
 }
 
