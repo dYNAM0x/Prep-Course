@@ -169,9 +169,10 @@ function doWhile(numero) {
   var i=1;
   do{
     i++
-    return numero + 5;
+    numero=numero+5;
      
-  } while (i<9) 
+  } while (i<9)
+  return numero; 
 }
 
 
