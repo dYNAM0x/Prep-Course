@@ -149,8 +149,7 @@ function continueStatement(numero) {
   //Devolver el array
   //Cuando el número de iteraciones alcance el valor 5, no se suma en ese caso y se continua con la siguiente iteración
   //Pista: usá el statement 'continue'
-  // Tu código:
-  sasdasdasd
+  // Tu código;
 }
 
 
